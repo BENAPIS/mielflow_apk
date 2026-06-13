@@ -1,4 +1,4 @@
-# 🐝 MielFlow APK (Benapis Lab)
+# 🐝 MielFlow APK (Benapi Lab)
 
 Ce dépôt public est le **canal de distribution et de contrôle** officiel de l'application MielFlow. 
 

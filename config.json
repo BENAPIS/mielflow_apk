@@ -1,5 +1,5 @@
 {
-  "version_minimale": 4,
+  "version_minimale": 5,
   "message_bloquant": "Une mise à jour critique de MielFlow (V3) est disponible. Veuillez installer la nouvelle version pour bénéficier du nouveau modèle de calcul des miellées.",
   "url_apk": "https://github.com/BENAPIS/mielflow_apk/releases"
 }
